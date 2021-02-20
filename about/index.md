@@ -7,5 +7,5 @@ comments: false
 ---
     
 <center><a href="https://github.com/tdat97"><b>Go to github</b></a></center>
-<center><a href="https://www.linkedin.com/in/%EA%B0%95%EB%A1%9C-%EC%9D%B4-958a361b9/"><b>Go to github</b></a></center>
+<center><a href="https://www.linkedin.com/in/%EA%B0%95%EB%A1%9C-%EC%9D%B4-958a361b9/"><b>Go to linkedin</b></a></center>
 <center>안녕하세요. 케라스 공부중인 tdat입니다.</center>
